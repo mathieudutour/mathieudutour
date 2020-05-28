@@ -11,5 +11,5 @@ I also like making meme projects:
 
 <a href="https://twitter.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/twitter.png"></a>
 <a href="https://dribbble.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/dribbble.png"></a>
-<a href="https://discordapp.com/users/380325824286687233"><img align="left" width="50" height="50" src="./assets/instagram.png"></a>
-<a href="https://instagram.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/twitter.png"></a>
+<a href="https://discordapp.com/users/380325824286687233"><img align="left" width="50" height="50" src="./assets/discord.png"></a>
+<a href="https://instagram.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/instagram.png"></a>
