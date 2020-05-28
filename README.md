@@ -1,6 +1,6 @@
 # Mathieu Dutour - @mathieudutour
 
-Hello there, I'm Mathieu - a dev working on creating tools to help people work a tiny bit more efficiently. I previously worked [@Sketch](https://sketch.com) on the develop platform.
+Hello there, I'm Mathieu - a dev working on creating tools to help people work a tiny bit more efficiently. I previously worked [@Sketch](https://sketch.com) on the developer platform.
 
 I also like making meme projects:
 
