@@ -9,7 +9,7 @@ I also like making meme projects:
 - [Sketch a Sketch](https://github.com/mathieudutour/sketch-a-sketch)
 - [Sketch Hot Dog](https://github.com/mathieudutour/sketch-hotdog)
 
-<a href="https://twitter.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/twitter.png"></a>
-<a href="https://dribbble.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/dribbble.png"></a>
-<a href="https://discordapp.com/users/380325824286687233"><img align="left" width="50" height="50" src="./assets/discord.png"></a>
-<a href="https://instagram.com/mathieudutour"><img align="left" width="50" height="50" src="./assets/instagram.png"></a>
+<a href="https://twitter.com/mathieudutour"><img align="left" width="50" height="50" src="https://github.com/mathieudutour/mathieudutour/raw/master/assets/twitter.png"></a>
+<a href="https://dribbble.com/mathieudutour"><img align="left" width="50" height="50" src="https://github.com/mathieudutour/mathieudutour/raw/master/assets/dribbble.png"></a>
+<a href="https://discordapp.com/users/380325824286687233"><img align="left" width="50" height="50" src="https://github.com/mathieudutour/mathieudutour/raw/master/assets/discord.png"></a>
+<a href="https://instagram.com/mathieudutour"><img align="left" width="50" height="50" src="https://github.com/mathieudutour/mathieudutour/raw/master/assets/instagram.png"></a>
