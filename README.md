@@ -1,6 +1,6 @@
 Hello there :wave:
 
-I'm Mathieu - a dev working on creating tools to help people work a tiny bit more efficiently. I previously worked [@Sketch](https://sketch.com) on the developer platform. I am now working full time on open source.
+I'm Mathieu - a dev working on creating tools to help people work a tiny bit more efficiently. I'm working on the [Raycast](https://raycast.com)'s extension ecosystem. I previously worked [@Sketch](https://sketch.com) on the developer platform.
 
 🚀 Some of my main projects:
 - [Kactus](https://github.com/kactus-io/kactus) - a version control tool for designers
